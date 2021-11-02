@@ -1,0 +1,1 @@
+expo install expo-location
